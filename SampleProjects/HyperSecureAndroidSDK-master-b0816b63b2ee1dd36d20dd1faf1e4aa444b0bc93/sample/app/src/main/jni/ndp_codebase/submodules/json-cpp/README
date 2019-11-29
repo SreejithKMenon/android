@@ -1,0 +1,4 @@
+JSON Library with support for specifying precision for the writer.
+
+Compile with C++11
+Check examples/example1.cpp for usage.

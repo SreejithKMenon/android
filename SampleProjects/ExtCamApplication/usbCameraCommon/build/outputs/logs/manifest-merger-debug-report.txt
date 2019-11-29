@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+	package
+		ADDED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml:24:11-52
+		INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml:24:1-54
+uses-sdk
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+		ADDED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+		ADDED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml
+		INJECTED from /Users/sreejithkmenon/AndroidStudioProjects/ExtCamApplication/usbCameraCommon/src/main/AndroidManifest.xml

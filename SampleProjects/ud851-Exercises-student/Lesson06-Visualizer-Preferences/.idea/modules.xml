@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/T06.10-Solution-EditTextPreferenceConstraints/app/src/main/main.iml" filepath="$PROJECT_DIR$/T06.10-Solution-EditTextPreferenceConstraints/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.06-Exercise-AddTwoMoreCheckboxes/app/src/main/main1.iml" filepath="$PROJECT_DIR$/T06.06-Exercise-AddTwoMoreCheckboxes/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.08-Exercise-PreferenceSummary/app/src/main/main10.iml" filepath="$PROJECT_DIR$/T06.08-Exercise-PreferenceSummary/app/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.09-Exercise-EditTextPreference/app/src/main/main11.iml" filepath="$PROJECT_DIR$/T06.09-Exercise-EditTextPreference/app/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.09-Solution-EditTextPreference/app/src/main/main12.iml" filepath="$PROJECT_DIR$/T06.09-Solution-EditTextPreference/app/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.03-Exercise-ReadingFromSharedPreferences/app/src/main/main13.iml" filepath="$PROJECT_DIR$/T06.03-Exercise-ReadingFromSharedPreferences/app/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/main14.iml" filepath="$PROJECT_DIR$/T06.10-Exercise-EditTextPreferenceConstraints/app/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.02-Solution-MakeAPreferenceFragment/app/src/main/main15.iml" filepath="$PROJECT_DIR$/T06.02-Solution-MakeAPreferenceFragment/app/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.02-Exercise-MakeAPreferenceFragment/app/src/main/main16.iml" filepath="$PROJECT_DIR$/T06.02-Exercise-MakeAPreferenceFragment/app/src/main/main16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.08-Solution-PreferenceSummary/app/src/main/main17.iml" filepath="$PROJECT_DIR$/T06.08-Solution-PreferenceSummary/app/src/main/main17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.05-Exercise-PreferenceChangeListener/app/src/main/main18.iml" filepath="$PROJECT_DIR$/T06.05-Exercise-PreferenceChangeListener/app/src/main/main18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.07-Solution-ListPreference/app/src/main/main19.iml" filepath="$PROJECT_DIR$/T06.07-Solution-ListPreference/app/src/main/main19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.01-Exercise-SetupTheActivity/app/src/main/main2.iml" filepath="$PROJECT_DIR$/T06.01-Exercise-SetupTheActivity/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.01-Solution-SetupTheActivity/app/src/main/main3.iml" filepath="$PROJECT_DIR$/T06.01-Solution-SetupTheActivity/app/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.06-Solution-AddTwoMoreCheckboxes/app/src/main/main4.iml" filepath="$PROJECT_DIR$/T06.06-Solution-AddTwoMoreCheckboxes/app/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.05-Solution-PreferenceChangeListener/app/src/main/main5.iml" filepath="$PROJECT_DIR$/T06.05-Solution-PreferenceChangeListener/app/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.07-Exercise-ListPreference/app/src/main/main6.iml" filepath="$PROJECT_DIR$/T06.07-Exercise-ListPreference/app/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.04-Solution-UseResources/app/src/main/main7.iml" filepath="$PROJECT_DIR$/T06.04-Solution-UseResources/app/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.04-Exercise-UseResources/app/src/main/main8.iml" filepath="$PROJECT_DIR$/T06.04-Exercise-UseResources/app/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T06.03-Solution-ReadingFromSharedPreferences/app/src/main/main9.iml" filepath="$PROJECT_DIR$/T06.03-Solution-ReadingFromSharedPreferences/app/src/main/main9.iml" />
+    </modules>
+  </component>
+</project>
